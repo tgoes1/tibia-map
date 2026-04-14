@@ -1,4 +1,3 @@
-dockerfile# Etapa 1: Build com Node 10 (compatível com Gulp 3)
 FROM node:10-alpine AS builder
 
 WORKDIR /app
